@@ -25,4 +25,8 @@ simpley setup - Start Setup
 simpley info - Lists Commands
 ```
 
-<br>
+### **Installation**
+```
+npm i -g simpley
+```
+***Note:** make sure you have inquirer and arg installed globally using ``npm i -g inquirer arg``*
