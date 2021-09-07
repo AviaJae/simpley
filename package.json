@@ -16,12 +16,7 @@
     "cli",
     "create-project"
   ],
-  "contributors": [
-    {
-      "name": "Yargs Contributors",
-      "url": "https://github.com/yargs/yargs/graphs/contributors"
-    }
-  ],
+
   "author": "char_",
   "license": "MIT",
   "dependencies": {
