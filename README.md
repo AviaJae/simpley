@@ -19,7 +19,7 @@ Simpley Makes All The Handlers You Need For Your Discord Bot. Just By Entering S
 
 <br>
 
-#### **Commands**
+### **Commands**
 ```
 simpley setup - Start Setup
 simpley info - Lists Commands
