@@ -19,6 +19,7 @@ Simpley Makes All The Handlers You Need For Your Discord Bot. Just By Entering S
 ```
 simpley setup - Start Setup
 simpley info - Lists Commands
+simpley version - Shows Simpley Version
 ```
 
 ### **Installation**
