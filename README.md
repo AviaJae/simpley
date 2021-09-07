@@ -1,13 +1,26 @@
 <p align="center">
   <img width="250" src="https://cdn.discordapp.com/attachments/884404223314366499/884794578287349830/simply_logo.png">
 </p>
-<h1 align="center"> Simpely </h1>
+<h1 align="center"> Simpley </h1>
 <p align="center">
-  <b >A Package Made To Make Ypur Life Eaiser!</b>
+  <b >A Package Made To Make Your Life Easier!</b>
 </p>
 
 <br>
 
 
-## Description
-Simpley Makes You Life Easier By Making The Main Handlers On Your Bot, Making This Is Super Easy Due To Simpley's Amazing Interface!
+## **Description**
+Simpley Makes Your Life Easier By Making The Main Handlers On Your Bot, Using Simpley's Amazing Interface Is Super Easy
+
+<br>
+
+### **What It Does**
+Simpley Makes All The Handlers You Need For Your Discord Bot. Just By Entering Some Inputs, You Can Create A Cusom Bot With All The Handlers You Need!
+
+<br>
+
+#### **Commands**
+```
+simpley setup - Start Setup
+simpley info - Lists Commands
+```
