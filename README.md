@@ -15,7 +15,7 @@ Simpley Makes Your Life Easier By Making The Main Handlers On Your Bot, Using Si
 <br>
 
 ### **What It Does**
-Simpley Makes All The Handlers You Need For Your Discord Bot. Just By Entering Some Inputs, You Can Create A Cusom Bot With All The Handlers You Need!
+Simpley Makes All The Handlers You Need For Your Discord Bot. Just By Entering Some Inputs, You Can Create A Custom Bot With All The Handlers You Need!
 
 <br>
 
