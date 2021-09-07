@@ -4,7 +4,9 @@
  
 
 ## Installation
-```npm install simpley```
+```
+npm install simpley
+```
 
 
 ### Getting Started
