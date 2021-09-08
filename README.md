@@ -13,7 +13,6 @@
 Simpley Makes All The Handlers You Need For Your Discord Bot. Just By Entering Some Inputs, You Can Create A Custom Bot With All The Handlers You Need!
 
 
-<br>
 
 ### **Commands**
 ```
@@ -27,3 +26,5 @@ simpley version - Shows Simpley Version
 npm i -g simpley
 ```
 ***Note:** make sure you have inquirer and arg installed globally using ``npm i -g inquirer arg``*
+
+<br>
