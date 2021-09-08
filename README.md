@@ -25,6 +25,7 @@ simpley version - Shows Simpley Version
 ```
 npm i -g simpley
 ```
-***Note:** make sure you have inquirer and arg installed globally using ``npm i -g inquirer arg``*
+> ***Note:** make sure you have inquirer and arg installed globally using ``npm i -g inquirer arg``*
 
 <br>
+

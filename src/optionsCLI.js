@@ -18,7 +18,7 @@ async function optionsCLI(){
 
 
 
-    console.log(chalk.bold.blue("Simply Setup"))
+    console.log(chalk.bold.blue("Simpley Setup"))
     console.log(chalk.bold("-------------"))
 inquirer
   .prompt([
@@ -26,20 +26,20 @@ inquirer
         type: 'input',
         name: 'Name',
         message: "Whats The Project Name?",
-        default: "Simply Project"
+        default: "Simpley Project"
         
     },
     {
         type: 'list',
         name: 'Language',
-        message: "'What Language Would You Like The Bot To Be Coded In?",
+        message: "'Choose A Programming Language",
         choices: ['JavaScript'],
         default: 'JavaScript'
     },
     {
         type: 'list',
         name: 'Type',
-        message: 'What Type Of Project Do You Want Made?',
+        message: 'What Type Of Project Do You Want Make?',
         choices: ['Command Handler', 'Events Handler', 'Slash Command Hander', 'All Of The Above']
     },
     {

@@ -22,7 +22,8 @@ const optionsCLI = require('./optionsCLI');
 
 export async function cli(args) {
  let options = parseArgumentsIntoOptions(args);
- if (!options.cmd) return errorCLI("Command Not Entered!");
+ const command = require(`./functions/info`)
+ if (!options.cmd) return command();
 
  fs.access(__dirname + `/functions/${options.cmd}.js`, (err) => {
   if (err) {
