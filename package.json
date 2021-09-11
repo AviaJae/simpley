@@ -7,7 +7,7 @@
     "simpley": "bin/simpley"
   },
   "scripts": {
-    "test": "src/index.js"
+    "test": "node src/cli.js"
   },
   "repository": {
     "type": "git",
