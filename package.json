@@ -8,7 +8,8 @@
   },
   "scripts": {
     "test": "node src/test.js",
-    "semantic-release": "semantic-release --branches main"
+    "semantic-release": "semantic-release --branches main",
+    "commit": "cz -m 'commit' "
   },
   "repository": {
     "type": "git",
