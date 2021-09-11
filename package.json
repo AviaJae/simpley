@@ -8,8 +8,7 @@
   },
   "scripts": {
     "test": "node src/test.js",
-    "semantic-release": "semantic-release --branches main",
-    "commit": "cz"
+    "semantic-release": "semantic-release --branches main"
   },
   "repository": {
     "type": "git",
@@ -36,8 +35,6 @@
     "inquirer": "^8.1.2",
     "ncp": "^2.0.0",
     "recursive-copy": "^2.0.13"
-  },
-  "devDependencies": {
-    "semantic-release": "^17.4.7"
   }
+  
 }
