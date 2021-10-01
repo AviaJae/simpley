@@ -22,7 +22,10 @@ inquirer.prompt([
 ]).then(answers => {
 if (!answers.IsTheRight) return cli();
 
+
 templateGen(a);
+if (a.Type === "Dashboard") return console.log(chalk.bold.yellow("Please Fill In The Inputs Required In Config.json"))
+
 });
 }
 module.exports = isThisRightCLI;

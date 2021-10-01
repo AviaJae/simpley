@@ -1,15 +1,14 @@
 {
   "name": "simpley",
-  "version": "0.0.0-development",
+  "version": "2.0.0",
   "description": "A Package To Help Create A Discord Bot Project!",
   "main": "src/index.js",
   "bin": {
     "simpley": "bin/simpley"
   },
   "scripts": {
-    "test": "node src/test.js",
-    "semantic-release": "semantic-release --branches main"
-  },
+    "test": "node src/test.js"
+},
   "repository": {
     "type": "git",
     "url": "https://github.com/C-h-a-r/simpley.git"

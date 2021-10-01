@@ -40,7 +40,7 @@ inquirer
         type: 'list',
         name: 'Type',
         message: 'What Type Of Project Do You Want Make?',
-        choices: ['Command Handler', 'Events Handler', 'Slash Command Hander', 'All Of The Above']
+        choices: ['Command Handler', 'Events Handler', 'Slash Command Hander', 'Dashboard']
     },
     {
       type: 'password',
